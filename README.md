@@ -5,7 +5,7 @@ Mais informações sobre mim:
 
 - Nasci em 1981
 - Me formei em Composição e Regência pela Escola de Música da UFBA (Universidade Federal da Bahia)
-- Cursei 2 anos de Ciência da Computação pela UNIFACS. Porquê não concluí? Tinha pouca programação no curso! 😉
+- Cursei 2 anos de Ciência da Computação pela UNIFACS.
 - Linguagens e frameworks que aprendi na Cubos Academy:
 ##### React | HTML | CSS | JavaScript | NodeJS | PostgreSQL | Git | Vs Code | Npm
 <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width='40px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <i width='40px' class="devicon-git-plain colored"></i> <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
