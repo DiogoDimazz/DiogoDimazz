@@ -1,6 +1,7 @@
 # Olá! Me chamo Diogo, mas pode me chamar de Dimazz se preferir 👋
 
 Estou em transição de carreira e me formei pela Cubos Academy como FULLSTACK WEB DEVELOPER! 🤩
+
 Mais informações sobre mim:
 
 - Nasci em 1981
